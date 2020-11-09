@@ -521,7 +521,8 @@ img {
   margin-right: 70px;
 }
 
-.footer-item:hover {
+.footer-item:hover,
+.footer-item:focus {
   background-color: var(--accent-color);
 }
 
